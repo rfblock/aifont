@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+  <path d="M 10,5 Q 25,5 35,20 Q 45,5 60,5 L 60,95 Q 45,90 35,75 Q 25,90 10,95" fill="none" stroke="black" stroke-width="5"/>
+</svg>
